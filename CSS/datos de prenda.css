@@ -1,0 +1,117 @@
+body{
+    background-size: cover;
+	background-attachment: fixed;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'Varela Round', sans-serif;
+}
+.contenh{
+    width: 80%; 
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.contenh a{
+    text-decoration: none;
+}
+.contenh img{
+    margin-top: 5px;
+    width: 150px;
+}
+.contenh p{
+    margin-left: -10px;
+    font-size: 35px;
+    font-family: 'Varela Round', sans-serif;
+    color: #0065d1;
+}
+.retroceder{
+    text-decoration: none;
+    color: #0462c7;
+    font-size: 30px;
+    text-decoration: none;
+}
+span label{
+    cursor: pointer;
+    font-family: 'Varela Round', sans-serif;
+}
+.titulosh2 h2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 35px;
+    color: #0052aa;
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-left: 250px;
+}
+.titulosh2 img{
+    margin-left:80px ;
+    width: 190px;
+}
+h3{
+    align-items: left;
+    color: #0052aa;
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.sectprenda{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.sectprenda img{
+    width: 250px;
+    height: 250px;
+}
+.texto{
+    display: flex ;
+    width: 50%;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.text{
+    width: 50%;
+    height: 200px;
+}
+.texto textarea{
+    width: 85%;
+    height: 300px;
+}
+.contador{
+    margin-top:275px;
+    width: 5px;
+    height: 5px;
+}
+.marcador{
+    width: 35px;
+    height: 25px;
+}
+.boton{
+    text-decoration: none;
+    padding: 8px 90px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    padding-left: 980px;
+}
+button{
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    border: #0455ac;
+    background-color: #0455ac;
+    width: 200px;
+    height: 45px;
+    color: #ffffff;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.atras{
+    padding-top: 60px;
+    padding-left: 60px;
+}

@@ -1,0 +1,121 @@
+body{
+    background-size: cover;
+	background-attachment: fixed;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'Varela Round', sans-serif;
+}
+.contenh{
+    width: 80%; 
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.contenh a{
+    text-decoration: none;
+}
+.contenh img{
+    margin-top: 5px;
+    width: 150px;
+}
+.contenh p{
+    margin-left: -10px;
+    font-size: 35px;
+    font-family: 'Varela Round', sans-serif;
+    color: #0065d1;
+}
+.retroceder{
+    text-decoration: none;
+    color: #0462c7;
+    font-size: 30px;
+    text-decoration: none;
+}
+span label{
+    cursor: pointer;
+    font-family: 'Varela Round', sans-serif;
+}
+.seleccion{
+    text-align: center;
+}
+.titulosh2 h2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 35px;
+    color: #0052aa;
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-left: 250px;
+}
+.titulosh2 img{
+    margin-left:80px ;
+    width: 150px;
+}
+.sectblog h3{
+    align-items: left;
+    color: #0052aa;
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.contblog{
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    
+}
+.artblog{
+    margin-top: 35px;
+    width: 50%;
+    border: 1px solid black;
+    height: 260px;
+    margin: auto;
+}
+.textblog{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.valor{
+    padding-left: 300px;
+}
+.boton{
+    text-decoration: none;
+    padding: 8px 90px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    padding-left: 750px;
+    padding-bottom: 40px;
+}
+button{
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    border: #0455ac;
+    background-color: #0455ac;
+    font-size: 14px;
+    width: 140px;
+    height: 40px;
+    color: #ffffff;
+    margin-top: 40px;
+    cursor: pointer;
+}
+.pie{
+    text-align: right;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.contpie{
+    margin-right: 20px;
+    text-decoration: none;
+    color: #0462c7;
+    font-size: 25px;
+}
+.atras{
+    padding-top: 60px;
+    padding-left: 30px;
+}

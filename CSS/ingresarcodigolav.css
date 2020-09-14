@@ -1,0 +1,81 @@
+body{
+    background-size: cover;
+	background-attachment: fixed;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'Varela Round', sans-serif;
+}
+.contenh{
+    width: 80%; 
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.contenh a{
+    text-decoration: none;
+}
+.contenh img{
+    cursor: pointer;
+    margin-top: 5px;
+    width: 150px;
+}
+.contenh p{
+    cursor: pointer;
+    margin-left: -10px;
+    font-size: 35px;
+    font-family: 'Varela Round', sans-serif;
+    color: #0065d1;
+}
+.retroceder{
+    cursor: pointer;
+    text-decoration: none;
+    color: #0462c7;
+    font-size: 30px;
+    text-decoration: none;
+}
+span label{
+    cursor: pointer;
+    font-family: 'Varela Round', sans-serif;
+}
+.titulosh2 h2{
+    font-size: 35px;
+    color: #0052aa;
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.formulario{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+.formdatos{
+    justify-content: space-evenly;
+    margin: auto;
+    width: 60%
+}
+.formdatos input{
+    margin-top: 40px;
+    height: 60px;
+    width: 300px;
+}
+.formdatos a{
+    text-decoration: none;
+}
+.boton{
+    text-align: center;
+}
+button{
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    border: #0455ac;
+    background-color: #0455ac;
+    width: 130px;
+    height: 45px;
+    color: #ffffff;
+    margin-top: 50px;
+    cursor: pointer;
+}
